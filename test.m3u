@@ -1,6 +1,15 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" group-title="CINE Y SERIES", HBO
+http://45.167.1.136:8000/play/a00h
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY
+http://45.167.1.136:8000/play/a00k
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES", HBO POP
+http://45.167.1.136:8000/play/a00i
+#EXTINF:-1 tvg-id="HBOXTREM" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES", HBO XTREME
+http://45.167.1.136:8000/play/a00l
+
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg" group-title="Mundial", Mundial 2026 HD Op.2 DS
 http://aioplus.es:80/live/33621LT1/33621LT1/830867.ts
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg" group-title="Mundial",Mundial 2026 Op.3 DS2
